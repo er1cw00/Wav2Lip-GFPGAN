@@ -1,3 +1,6 @@
 [submodule "GFPGAN-master"]
 	path = GFPGAN-master
 	url = https://github.com/TencentARC/GFPGAN.git
+[submodule "Wav2Lip-master"]
+	path = Wav2Lip-master
+	url = https://github.com/Rudrabha/Wav2Lip.git
